@@ -36,7 +36,7 @@ function Auto(merk, bouwjaar) {
     }
    
     this.showDetails = function () {
-        console.log('Automerk: ' + brand + ‘ bouwjaar: ' + bouwjaar);
+        console.log('Automerk: ' + brand +  bouwjaar ' + bouwjaar);
     }
    
 }
